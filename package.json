@@ -1,0 +1,12 @@
+{
+  "name": "caliban",
+  "version": "1.0.0",
+  "description": "Plataforma_de_cursos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOSE AUGUSTO GUIMARAES",
+  "license": "ISC"
+}
